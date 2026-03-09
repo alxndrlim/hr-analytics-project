@@ -270,8 +270,8 @@ Open `data/cleaned/hr_data_cleaned.csv` in Tableau Public to reproduce the dashb
 
 **Alex Lim**
 - Tableau Public: [View Profile](https://public.tableau.com/app/profile/alex.lim2876)
-- GitHub: [Your GitHub URL here]
-- LinkedIn: [Your LinkedIn URL here]
+- GitHub: https://github.com/alxndrlim/hr-analytics-project
+- LinkedIn: https://www.linkedin.com/in/alxndrlim/
 
 ---
 
