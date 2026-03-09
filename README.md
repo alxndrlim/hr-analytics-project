@@ -98,7 +98,7 @@ hr-analytics-project/
 |--------|-------------|
 | `Employee_ID` | Unique identifier |
 | `Full_Name` | Employee full name |
-| `Gender` | Male / Female / Non-binary |
+| `Gender` | Male / Female / Not Declared |
 | `Country` | One of 13 APAC countries |
 | `Department` | One of 7 departments |
 | `Grade_Level` | G1 (entry) to G6 (senior) |
