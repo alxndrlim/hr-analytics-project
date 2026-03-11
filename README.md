@@ -1,4 +1,4 @@
-# 🧑‍💼 HR Analytics: Workforce Intelligence Dashboard
+# HR Analytics: Workforce Intelligence Dashboard
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-lightblue)
@@ -186,25 +186,25 @@ Eight business questions were explored during EDA:
 
 The dashboard consists of 4 interactive tabs:
 
-### Tab 1 — Workforce Overview
+### Tab 1 - Workforce Overview
 - Total headcount, active employees, gender breakdown KPIs
 - Average tenure and age KPIs
 - Headcount by country (map)
 - Grade level distribution (bar chart)
 - Gender mix by country (stacked bar)
 
-### Tab 2 — Attrition Analysis
+### Tab 2 - Attrition Analysis
 - Overall attrition rate KPI (20.4%)
 - Attrition rate by department with company average reference line
 - Exit reasons by category (voluntary vs involuntary)
 - Tenure at exit by department (box plot)
 
-### Tab 3 — Recruitment Analytics
+### Tab 3 - Recruitment Analytics
 - Hires by recruitment source
 - Average time-to-hire by source with overall average reference line
 - Monthly hiring trend (2015–2025)
 
-### Tab 4 — L&D and Compensation
+### Tab 4 - L&D and Compensation
 - Average training hours by department
 - Training hours vs performance rating (scatter plot with trend line)
 - Annual salary by country
@@ -245,7 +245,7 @@ python scripts/eda_analysis.py
 ```
 This generates 8 charts saved to `reports/figures/`.
 
-**5. Open the Jupyter notebooks** (optional — for detailed walkthrough)
+**5. Open the Jupyter notebooks** (optional - for detailed walkthrough)
 ```bash
 jupyter notebook
 ```
