@@ -10,7 +10,7 @@
 
 ## 📊 Live Dashboard
 
-🔗 **[View on Tableau Public → HR Analytics: Workforce Intelligence Dashboard](https://public.tableau.com/app/profile/alex.lim2876/viz/HRAnalytics-WorkforceIntelligenceDashboard/WorkforceOverviewDashboard)**
+🔗 **[View on Tableau Public → HR Analytics: Workforce Intelligence Dashboard](https://public.tableau.com/views/HRAnalytics-DashboardRedesign/WorkforceOverview1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 > 4 interactive tabs · 1,000 employees · APAC Tech Company (Synthetic Data)
 
